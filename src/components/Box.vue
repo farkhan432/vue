@@ -1,18 +1,19 @@
 <template>
-    <div>
-      <b-row align-h="start">
-        <b-col cols="4" class="bg-warning">One of two columns</b-col>
-        <b-col cols="4" class="bg-danger">One of two columns</b-col>
-        <b-col cols="4" class="bg-primary">One of two columns</b-col>
-      </b-row>
-    </div>  
+    <b-container class="bv-example-row">
+        <b-row align-h="start">
+          <div class="col align-self-center">
+          <b-col cols="12" class="box bg-danger"><img src="../assets/logo.png"></b-col>
+          </div>
+        </b-row>
+
+    </b-container>
 </template>
 
 <script>
 export default{
     data(){
        return{
-
+          
        };
     },
 }
@@ -20,10 +21,8 @@ export default{
 
 <style scoped>
 .box {
-   height: 100px;
-}
-.text{
-    text-align: center;
+   height: 300px;
+   text-align: center;
 }
 
 </style>
