@@ -1,7 +1,11 @@
 <template>
   <div id="app">
+    <div>
+    
+    </div>
     <Navbar />
     <Box/>
+    
   </div>
 </template>
 <script> 
