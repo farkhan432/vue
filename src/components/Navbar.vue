@@ -1,7 +1,7 @@
 <template>
     <div>
       <b-navbar toggleable="lg" type="dark" variant="success">
-        <b-container>
+        <b-container fluid>
             <b-navbar-brand href="#" class="judul">Ini Toko +62</b-navbar-brand>
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
             <b-collapse id="nav-collapse" is-nav>
