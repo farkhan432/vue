@@ -25,13 +25,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div>
@@ -63,13 +63,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                        <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div>
@@ -101,13 +101,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -138,13 +138,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                         <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -175,13 +175,10 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                   </div>
                 </div></div>
@@ -212,13 +209,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -251,13 +248,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div>
@@ -289,13 +286,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                        <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div>
@@ -327,13 +324,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                            <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                            <font-awesome-icon :icon="['fas', 'star']" />
+                            <font-awesome-icon :icon="['fas', 'star']" />
+                            <font-awesome-icon :icon="['fas', 'star']" />
+                            <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -364,13 +361,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -401,13 +398,13 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
-                      <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -438,10 +435,10 @@
                   </div>
                   <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                      <font-awesome-icon :icon="['fas', 'search']" />
+                      <font-awesome-icon :icon="['fas', 'star']" />
                       <font-awesome-icon :icon="['fas', 'star']" />
                       <font-awesome-icon :icon="['fas', 'star']" />
                       <font-awesome-icon :icon="['fas', 'star']" />
