@@ -13,11 +13,10 @@
               <div
                 class="mask"
                 style="background-color: rgba(251, 251, 251, 0.2);">
-               
                 <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Indomie Boba
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -28,8 +27,6 @@
                            <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                          <font-awesome-icon :icon="['fas', 'star']" />
-                          <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
@@ -55,7 +52,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Nugget Lumer
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -66,7 +63,6 @@
                         <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                        <font-awesome-icon :icon="['fas', 'star']" />
                         <font-awesome-icon :icon="['fas', 'star']" />
                         <font-awesome-icon :icon="['fas', 'star']" />
                         <font-awesome-icon :icon="['fas', 'star']" />
@@ -93,7 +89,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Ramen Boba
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -104,6 +100,7 @@
                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
+                          <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
@@ -143,8 +140,6 @@
                       <div class="teks col text-right">
                         <font-awesome-icon :icon="['fas', 'star']" />
                         <font-awesome-icon :icon="['fas', 'star']" />
-                        <font-awesome-icon :icon="['fas', 'star']" />
-                        <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -167,7 +162,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Pancake
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -178,7 +173,9 @@
                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
-                           <font-awesome-icon :icon="['fas', 'store']" />
+                           <font-awesome-icon :icon="['fas', 'star']" />
+                           <font-awesome-icon :icon="['fas', 'star']" />
+                           <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -201,7 +198,7 @@
                  <div class="box2 ">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Paket Ayam K**
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -230,7 +227,7 @@
           <div
             data-ripple-color="light">
             <img
-              src="../assets/gambar.jpg"
+              src="../assets/ramen.jpg"
               class="w-100"/>
             <a href="#!">
               <div
@@ -240,7 +237,7 @@
                 <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Ramen Konoha
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -251,6 +248,7 @@
                           <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
+                          <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
@@ -269,7 +267,7 @@
             data-ripple-color="light"
           >
             <img
-              src="../assets/makan.jpg"
+              src="../assets/udon.jpg"
               class="w-100"/>
             <a href="#!">
               <div
@@ -278,7 +276,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Udon Tokyo
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -306,7 +304,7 @@
             data-ripple-color="light"
           >
             <img
-              src="../assets/makan3.jpg"
+              src="../assets/bisnis.jpg"
               class="w-100"
             />
             <a href="#!">
@@ -316,7 +314,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Kebab Kazakstan
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -331,6 +329,7 @@
                             <font-awesome-icon :icon="['fas', 'star']" />
                             <font-awesome-icon :icon="['fas', 'star']" />
                             <font-awesome-icon :icon="['fas', 'star']" />
+                            <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -343,7 +342,7 @@
             data-ripple-color="light"
           >
             <img
-              src="../assets/makan4.jpg"
+              src="../assets/ikan.jpg"
               class="w-100"
             />
             <a href="#!">
@@ -353,7 +352,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Ikan Bakar 
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -368,6 +367,7 @@
                         <font-awesome-icon :icon="['fas', 'star']" />
                         <font-awesome-icon :icon="['fas', 'star']" />
                         <font-awesome-icon :icon="['fas', 'star']" />
+                        <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
                 </div></div>
@@ -380,7 +380,7 @@
             data-ripple-color="light"
           >
             <img
-              src="../assets/makan5.jpg"
+              src="../assets/kare.jpg"
               class="w-100"
             />
             <a href="#!">
@@ -390,7 +390,7 @@
                  <div class="box2">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Kare Ayam
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -403,7 +403,7 @@
                       <div class="teks col text-right">
                           <font-awesome-icon :icon="['fas', 'star']" />
                           <font-awesome-icon :icon="['fas', 'star']" />
-                          <font-awesome-icon :icon="['fas', 'star']" />
+                          <font-awesome-icon :icon="['fas', 'star']" />                        
                           <font-awesome-icon :icon="['fas', 'star']" />
                       </div>
                   </div>
@@ -417,7 +417,7 @@
             data-ripple-color="light"
           >
             <img
-              src="../assets/makan6.jpg"
+              src="../assets/nasgor.jpg"
               class="w-100"
             />
             <a href="#!">
@@ -427,7 +427,7 @@
                  <div class="box2 ">
                    <div class="row">
                       <div class="teks col">
-                          Mie Boba
+                          Nasgor Spesial
                       </div>
                       <div class="teks col text-right">
                           Ratting
@@ -438,6 +438,7 @@
                            <font-awesome-icon :icon="['fas', 'store']" />
                       </div>
                       <div class="teks col text-right">
+                      <font-awesome-icon :icon="['fas', 'star']" />
                       <font-awesome-icon :icon="['fas', 'star']" />
                       <font-awesome-icon :icon="['fas', 'star']" />
                       <font-awesome-icon :icon="['fas', 'star']" />
