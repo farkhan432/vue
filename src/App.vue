@@ -6,6 +6,7 @@
     <Navbar />
     <Box/>
     <Coding/>
+    <Anggota/>
     
   </div>
 </template>
@@ -13,12 +14,14 @@
   import Navbar from './components/Navbar.vue';
   import Box from './components/Box.vue';
   import Coding from './components/Coding.vue';
+  import Anggota from './components/Anggota.vue';
   export default {
     name: 'navbar',
     components: {
       Navbar,
       Box,
-      Coding
+      Coding,
+      Anggota
     }
   }
 </script>

@@ -1,7 +1,7 @@
 <template>
   <div>  
         <b-container fluid> 
-        <h1 class="text-center">Menu Pilihan dan Promo </h1>
+        <h1 class="teks text-center">Menu Pilihan dan Promo </h1>
                 <b-row class="text-center">           
                         <b-col cols="12" md="12">
                             <b-row>
@@ -28,7 +28,7 @@
                                         data-ripple-color="light"
                                     >
                                         <img
-                                        src="../assets/satu.jpg"
+                                        src="../assets/burger.jpg"
                                         class="w-100"/>
                                         <a href="#!">
                                         <div
@@ -43,7 +43,7 @@
                                         data-ripple-color="light"
                                     >
                                         <img
-                                        src="../assets/satu.jpg"
+                                        src="../assets/terangbulan.jpg"
                                         class="w-100"/>
                                         <a href="#!">
                                         <div
@@ -58,7 +58,7 @@
                                         data-ripple-color="light"
                                     >
                                         <img
-                                        src="../assets/satu.jpg"
+                                        src="../assets/fastfood.jpg"
                                         class="w-100"/>
                                         <a href="#!">
                                         <div
@@ -73,7 +73,7 @@
                                         data-ripple-color="light"
                                     >
                                         <img
-                                        src="../assets/satu.jpg"
+                                        src="../assets/lalapan.jpg"
                                         class="w-100"/>
                                         <a href="#!">
                                         <div
@@ -88,7 +88,7 @@
                                         data-ripple-color="light"
                                     >
                                         <img
-                                        src="../assets/satu.jpg"
+                                        src="../assets/mie.jpg"
                                         class="w-100"/>
                                         <a href="#!">
                                         <div
@@ -103,7 +103,7 @@
                                         data-ripple-color="light"
                                     >
                                         <img
-                                        src="../assets/satu.jpg"
+                                        src="../assets/ayambakar.jpg"
                                         class="w-100"/>
                                         <a href="#!">
                                         <div
@@ -113,22 +113,7 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded mt-3"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/satu.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-
+                                   
                                 </div>
                             </b-row>                       
                         </b-col>
@@ -152,6 +137,8 @@ export default{
 </script>
 
 <style scoped>
-
+.teks{
+    font-family: 'Times New Roman', Times, serif;
+}
 
 </style>
