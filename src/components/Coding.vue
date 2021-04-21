@@ -1,124 +1,35 @@
 <template>
   <div>  
         <b-container fluid> 
-        <h1 class="teks text-center">Menu Pilihan dan Promo </h1>
-                <b-row class="text-center">           
-                        <b-col cols="12" md="12">
-                            <b-row>
-                                <div class="col-lg-10 col-md-10 mb-4 mb-md-0">
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/dua.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-2 col-md-2 mb-4 mb-md-0">
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/burger.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded mt-3"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/terangbulan.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded mt-3"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/fastfood.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded mt-3"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/lalapan.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded mt-3"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/mie.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div
-                                        class="bg-image hover-overlay ripple shadow-1-strong rounded mt-3"
-                                        data-ripple-color="light"
-                                    >
-                                        <img
-                                        src="../assets/ayambakar.jpg"
-                                        class="w-100"/>
-                                        <a href="#!">
-                                        <div
-                                        
-                                            style="background-color: rgba(251, 251, 251, 0.2);">
-                                            
-                                            </div>
-                                        </a>
-                                    </div>
-                                   
-                                </div>
-                            </b-row>                       
-                        </b-col>
-                                
-                </b-row> 
+        <h1 class="teks text-center mt-5">Menu Pilihan dan Promo </h1>
+                <div>
+                    <b-carousel
+                        id="carousel-no-animation"
+                        style="text-shadow: 0px 0px 2px #000"
+                        no-animation
+                        indicators
+                        img-width="1024"
+                        img-height="280"
+                    >
+                        <b-carousel-slide
+                        caption="First slide"
+                        img-src="https://picsum.photos/id/292/3852/2556"
+                        ></b-carousel-slide>
+                        <b-carousel-slide
+                        caption="Second Slide"
+                        img-src="https://picsum.photos/id/312/3888/2592"
+                        ></b-carousel-slide>
+                        <b-carousel-slide
+                        caption="Third Slide"
+                        img-src="https://picsum.photos/id/326/4928/3264"
+                        ></b-carousel-slide>
+                        <b-carousel-slide
+                        caption="Fourth Slide"
+                        img-src="https://picsum.photos/id/102/4320/3240"
+                        ></b-carousel-slide>
+                    </b-carousel>
+                </div>      
+                        
         </b-container>
     </div>
   

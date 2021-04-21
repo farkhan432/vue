@@ -1,68 +1,40 @@
 <template>
-     <div>
-            <b-form-rating v-model="value" show-value></b-form-rating>
-            <p class="teks mt-2">Value: {{ value }}</p>
-        <b-container fluid>
-                <h1 class="text-center mt-2">Crew Web</h1>
-             <div>
-                    <ul class="list-unstyled">
-                        <b-media tag="li">
-                        <template #aside>
-                            <b-img blank blank-color="#abc" width="64" alt="placeholder"></b-img>
-                        </template>
-                        <h5 class="mt-0 mb-1">List-based media object</h5>
-                        <p class="mb-0">
-                            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
-                            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc
-                            ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-                        </p>
-                        </b-media>
-
-                        <b-media tag="li" class="my-4">
-                        <template #aside>
-                        <b-img blank blank-color="#cba" width="64" alt="placeholder"></b-img>
-                        </template>
-
-                        <h5 class="mt-0 mb-1">List-based media object</h5>
-                        <p class="mb-0">
-                            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
-                            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc
-                            ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-                        </p>
-                        </b-media>
-
-                        <b-media tag="li">
-                        <template #aside>
-                            <b-img blank blank-color="#bac" width="64" alt="placeholder"></b-img>
-                        </template>
-
-                        <h5 class="mt-0 mb-1">List-based media object</h5>
-                        <p class="mb-0">
-                            Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
-                            Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc
-                            ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-                        </p>
-                        </b-media>
-                    </ul>
-                </div>
+     <div class="bg-grey">
+        <b-container>
+                <h1 class="mt-2">Story Of Journey</h1>
+                    <b-row align-h="between">
+                        <b-col cols="6" class="teks ">
+                            Terkadang ketika ingin menentukan makan apa, orang Indonesia mencarinya terlebih dahulu di Google. Ini kesempatan bagi Anda yang tertarik dengan dunia kuliner. Anda bisa membuat blog yang berisi review tentang makanan dan restoran.
+                            Salah satu food blogger yang cukup terkenal di Indonesia adalah Anak Jajan. Blog ini dikelola oleh pasangan Julia Veronica dan Marius Tjenderasa. Blog berbahasa Inggris ini pun telah banyak memenangkan penghargaan seperti Influence Asia 2017, RCTI Socmed Awards 2016, dan Dreamer Radio Celegram Award
+                            <br> 
+                            <font-awesome-icon :icon="['fas', 'asterisk']" />
+                            <font-awesome-icon :icon="['fas', 'asterisk']" />
+                            <font-awesome-icon :icon="['fas', 'asterisk']" />
+                        </b-col>
+                        <b-col cols="6" class="teks2 text-center"><font-awesome-icon :icon="['fas', 'window-minimize']" /><br>
+                            A house is not a home unless it contains food and fire for the mind as well as the body. 
+                            <br><font-awesome-icon :icon="['fas', 'window-minimize']" /></b-col>
+                    </b-row>
         </b-container>
   </div>
-</template>
+</template>asterisk
 
 <script>
  export default {
     data() {
       return {
-        value: 4
-      }
-    }
+      };
+    },
   }
 </script>
 
 <style scoped>
 .teks{
-    text-align: center;
-    font-size: large;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.teks2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
 }
 </style>

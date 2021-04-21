@@ -5,23 +5,24 @@
     </div>
     <Navbar />
     <Box/>
-    <Coding/>
     <Anggota/>
+    <Coding/>
+   
     
   </div>
 </template>
 <script> 
   import Navbar from './components/Navbar.vue';
   import Box from './components/Box.vue';
-  import Coding from './components/Coding.vue';
   import Anggota from './components/Anggota.vue';
+  import Coding from './components/Coding.vue';
   export default {
     name: 'navbar',
     components: {
       Navbar,
       Box,
-      Coding,
-      Anggota
+      Anggota,
+      Coding
     }
   }
 </script>
