@@ -7,6 +7,7 @@
     <Box/>
     <Anggota/>
     <Coding/>
+    <Footer/>
    
     
   </div>
@@ -16,13 +17,15 @@
   import Box from './components/Box.vue';
   import Anggota from './components/Anggota.vue';
   import Coding from './components/Coding.vue';
+  import Footer from './components/Footer.vue';
   export default {
     name: 'navbar',
     components: {
       Navbar,
       Box,
       Anggota,
-      Coding
+      Coding,
+      Footer
     }
   }
 </script>
