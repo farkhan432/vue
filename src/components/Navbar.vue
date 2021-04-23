@@ -9,9 +9,9 @@
                 <b-nav-item right>
                   <!-- Using 'button-content' slot -->
                     <b-navbar-nav>
-                      <b-nav-item active href="#" class="text"> Home </b-nav-item>
+                      <b-nav-item active href="Box.vue" class="text"> Home </b-nav-item>
                       <b-nav-item href="#" class="text"> Tentang </b-nav-item>
-                      <b-nav-item href="#" class="text"> Kontak </b-nav-item>
+                      <b-nav-item href="/Footer.vue" class="text"> Kontak </b-nav-item>
                     </b-navbar-nav>
                 </b-nav-item>
               </b-navbar-nav>

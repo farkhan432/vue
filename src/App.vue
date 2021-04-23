@@ -9,6 +9,7 @@
     <Coding/>
     <Footer/>
    
+   
     
   </div>
 </template>
@@ -18,6 +19,7 @@
   import Anggota from './components/Anggota.vue';
   import Coding from './components/Coding.vue';
   import Footer from './components/Footer.vue';
+ 
   export default {
     name: 'navbar',
     components: {
